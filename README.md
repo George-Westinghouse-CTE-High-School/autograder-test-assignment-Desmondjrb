@@ -10,5 +10,3 @@ Update the hello.js file to export "Hello world!". The tests are failing right n
 ### Run command
 `npm test`
 
-### Notes
-- 
